@@ -4,6 +4,9 @@
 	Morning
 	***************
 */
+//This code is for printing a diamond shape..
+// User will enter a odd number and a beautiful shape will be printed..
+//This is gonna amazing..
 
 
 #include <iostream>
